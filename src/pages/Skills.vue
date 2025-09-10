@@ -52,7 +52,7 @@
 import SkillGroup from '../components/SkillGroup.vue'
 import celeryLogo from '../assets/skills/celery.svg'
 import spacyLogo from '../assets/skills/spacy.svg'
-import gRPC from '../assets/skills/grpc.svg'
+import gRPC from '../assets/skills/gRPC.svg'
 // import azureDevOps from '../assets/skills/azuredevops.svg'
 import azureAI from '../assets/skills/azure-ai.svg'
 import langfuse from '../assets/skills/langfuse.svg'
